@@ -60,7 +60,7 @@ header {
   display: none;
   position: absolute;
   top: 120px;
-  left: 25px;
+  right: 25px;
   background-color: #fffcf8;
   width: 315px;
   padding: 0px 0px 32px 0px;
